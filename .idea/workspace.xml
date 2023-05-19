@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ee1ef-a1fb-4a6b-a581-50915a98b5ce" name="Changes" comment="" />
+    <list default="true" id="4f1ee1ef-a1fb-4a6b-a581-50915a98b5ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14_TestNGFW/C04_DriverIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,6 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2Q04kVab4qzrpbsd3YcVF610KKz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -38,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C03_DependsOnMethods">
+  <component name="RunManager" selected="TestNG.C04_DriverIlkTest.test01">
     <configuration name="C01_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG" />
       <extension name="coverage">
@@ -90,8 +101,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C04_DriverIlkTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day14_TestNGFW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day14_TestNGFW" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14_TestNGFW.C04_DriverIlkTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C04_DriverIlkTest.test01" />
         <item itemvalue="TestNG.C03_DependsOnMethods" />
         <item itemvalue="TestNG.C02_Ignore" />
         <item itemvalue="TestNG.C01_Priority" />
